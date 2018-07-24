@@ -1,0 +1,49 @@
+h1{
+	font-family: Impact;
+}
+
+.shapes{
+	width: 100px;
+	height: 100px;
+	border:1px solid black;
+	float: left;
+	margin: 10px;
+}
+
+.redshape{
+	background-color:red;
+}
+
+.blueshape{
+	background-color:blue;
+}
+
+.greenshape{
+	background-color: green;
+}
+
+.yellowshape{
+	background-color: yellow;
+}
+
+.rectangles{
+	width: 200px;
+}
+
+
+
+
+#special_guest{
+	border: dashed 5px purple;
+}
+
+.circles{
+	border-radius: 100%;
+}
+
+
+
+.ovals{
+	border-radius: 100%;
+	width: 200px;
+}

@@ -1,0 +1,23 @@
+h1 {
+	color: purple;
+	background-color: turquoise;
+
+}
+
+
+body{
+	font-family: sans-serif;
+}
+
+h2 {
+	color: turquoise;
+}
+
+p{
+	font-size:30px;
+}
+
+img{
+	width:200px;
+	height:200px;
+}

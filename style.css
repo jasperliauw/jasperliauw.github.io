@@ -1,0 +1,21 @@
+table,th,td,tr{
+	border:1px solid black;
+}
+
+body{
+	background-color: #0ff;
+	font-style:sans-serif;
+}
+
+ul{
+	font-style: sans-serif;
+	font-size:30px;
+}
+
+h1 {
+	text-align: center;
+}
+
+ol{
+	font-size: 30px;
+}
